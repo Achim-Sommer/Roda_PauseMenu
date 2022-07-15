@@ -64,11 +64,11 @@ $(function(){
     })
 
     $('#discordinv').click(function(){
-        window.invokeNative('openUrl', 'https://discord.gg/veDufrHnAn')
+        window.invokeNative('openUrl', 'https://discord.gg/mZWNwyvmP2')
     })
 
     $('#tebexshop').click(function(){
-      window.invokeNative('openUrl', 'https://roda.tebex.io/')
+      window.invokeNative('openUrl', 'https://achim.tebex.io')
     })
 })
 

@@ -1,5 +1,7 @@
 # Roda_PauseMenu
  
-For support join my discord: https://discord.gg/veDufrHnAn
+Converted to esx v1final / 1.2
 
-## This only works in ESX Legacy.
+## Credits
+
+Original Script: https://github.com/RodericAguilar/Roda_PauseMenu
