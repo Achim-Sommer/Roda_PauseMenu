@@ -57,7 +57,7 @@ end
 CreateThread(function()
     while true do 
         SetPauseMenuActive(false) 
-        Wait(10)
+        Wait(5)
     end
 end)
 
