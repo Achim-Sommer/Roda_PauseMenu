@@ -22,7 +22,7 @@ window.addEventListener('message', function(event) {
       break;
 
       case 'updatePlayers': 
-          $('.footer h2').text(`Connected Players ${v.total}/${v.max}`)
+          $('.footer h2').text(`Spieler Online ${v.total}/${v.max}`)
       break;
   }
 })
